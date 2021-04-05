@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-todo-list/static/css/main.f5adc11b.chunk.css",
+    "main.js": "/React-todo-list/static/js/main.8e12ee3e.chunk.js",
+    "main.js.map": "/React-todo-list/static/js/main.8e12ee3e.chunk.js.map",
+    "runtime-main.js": "/React-todo-list/static/js/runtime-main.d66c1850.js",
+    "runtime-main.js.map": "/React-todo-list/static/js/runtime-main.d66c1850.js.map",
+    "static/js/2.fe169106.chunk.js": "/React-todo-list/static/js/2.fe169106.chunk.js",
+    "static/js/2.fe169106.chunk.js.map": "/React-todo-list/static/js/2.fe169106.chunk.js.map",
+    "static/js/3.565da46f.chunk.js": "/React-todo-list/static/js/3.565da46f.chunk.js",
+    "static/js/3.565da46f.chunk.js.map": "/React-todo-list/static/js/3.565da46f.chunk.js.map",
+    "index.html": "/React-todo-list/index.html",
+    "static/css/main.f5adc11b.chunk.css.map": "/React-todo-list/static/css/main.f5adc11b.chunk.css.map",
+    "static/js/2.fe169106.chunk.js.LICENSE.txt": "/React-todo-list/static/js/2.fe169106.chunk.js.LICENSE.txt",
+    "static/media/undraw_To_do_re_jaef.757033f4.svg": "/React-todo-list/static/media/undraw_To_do_re_jaef.757033f4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d66c1850.js",
+    "static/js/2.fe169106.chunk.js",
+    "static/css/main.f5adc11b.chunk.css",
+    "static/js/main.8e12ee3e.chunk.js"
+  ]
+}
