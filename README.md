@@ -3,7 +3,7 @@
 [Demo](https://circleyuanxo.github.io/React-todo-list/)
 
 1. Create react app 建置環境
-2. CSS: Style components
+2. CSS: Styled Components
 
 ## 功能
 
